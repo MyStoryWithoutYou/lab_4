@@ -92,15 +92,24 @@ namespace lab_4
                 }
             }
         }
-        public override string ToString()
+
+        public Tv(string model, int age, int numOfChannels, int diagonal)
         {
-            return "\nМодель: " + Model + ", срок службы: " + Age + ", количество каналов: " + NumOfChannels +
-                   ", диагональ: " + Diagonal;
+            Model = model;
+            Age = age;
+            NumOfChannels = numOfChannels;
+            Diagonal = diagonal;
         }
 
         public Tv()
         {
             
+        }
+
+        public override string ToString()
+        {
+            return "\nМодель: " + Model + ", срок службы: " + Age + ", количество каналов: " + NumOfChannels +
+                   ", диагональ: " + Diagonal;
         }
     }
 }

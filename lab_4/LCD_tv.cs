@@ -49,7 +49,18 @@ namespace lab_4
                 }
             }
         }
+
+        public LCD_tv(string model, int age, int numOfChannels, int diagonal, int brightness, int refreshRate) : base(model, age, numOfChannels, diagonal)
+        {
+            this.brightness = brightness;
+            this.refreshRate = refreshRate;
+        }
         
+        public LCD_tv()
+        {
+            
+        }
+
         public override string ToString()
         {
             return "\nМодель: " + Model + ", срок службы: " + Age + ", количество каналов: " + NumOfChannels + ", диагональ: " + Diagonal + ", яркость: " + Brightness + ", частота обновления: " + RefreshRate;

@@ -49,7 +49,18 @@ namespace lab_4
                 }
             }
         }
-        
+
+        public OLED_tv(string model, int age, int numOfChannels, int diagonal, int colorDepth, int refreshRate) : base(model, age, numOfChannels, diagonal)
+        {
+            this.colorDepth = colorDepth;
+            this.refreshRate = refreshRate;
+        }
+
+        public OLED_tv()
+        {
+            
+        }
+
         public override string ToString()
         {
             return "\nМодель: " + Model + ", срок службы: " + Age + ", количество каналов: " + NumOfChannels + ", диагональ: " + Diagonal + ", глубина цвета: " + ColorDepth + ", частота обновления: " + RefreshRate;
