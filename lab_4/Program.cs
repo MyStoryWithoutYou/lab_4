@@ -12,8 +12,8 @@ namespace lab_4
             controller.printUnsortedArray();
             controller.chooseAccordingToParameters();
             controller.bubbleSort();
-            controller.turnOn();
-            controller.turnOff();
+            Console.WriteLine(controller.switchOn());
+            Console.WriteLine(controller.switchOff());
         }
     }
 }

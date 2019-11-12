@@ -112,12 +112,12 @@ namespace lab_4
            
         }
 
-        public string turnOn()
+        public string switchOn()
         {
             return "Телевизор включен";
         }
 
-        public string turnOff()
+        public string switchOff()
         {
             return "Телевизор выключен";
         }
