@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/lab_4.csproj": {}
+  },
+  "projects": {
+    "/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/lab_4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/lab_4.csproj",
+        "projectName": "lab_4",
+        "projectPath": "/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/lab_4.csproj",
+        "packagesPath": "/Users/aliakseihudyma/.nuget/packages/",
+        "outputPath": "/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliakseihudyma/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/Debug/netcoreapp3.0/lab_4.csprojAssemblyReference.cache
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/Debug/netcoreapp3.0/lab_4.AssemblyInfoInputs.cache
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/Debug/netcoreapp3.0/lab_4.AssemblyInfo.cs
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4.deps.json
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4.runtimeconfig.json
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4.runtimeconfig.dev.json
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4.dll
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/bin/Debug/netcoreapp3.0/lab_4.pdb
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/Debug/netcoreapp3.0/lab_4.dll
+/Users/aliakseihudyma/RiderProjects/лабы 2 курс/lab_4/lab_4/obj/Debug/netcoreapp3.0/lab_4.pdb
